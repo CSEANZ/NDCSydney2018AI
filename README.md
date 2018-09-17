@@ -1,7 +1,7 @@
 # Easier AI allows everyone to build smart apps
 * Azadeh
   * [@AzadehKhojandi](https://twitter.com/AzadehKhojandi) 
-  * Blog https://azadehkhojandi.blogspot.com.au/
+  * Blog https://azadehkhojandi.blogspot.com.au
   * GitHub https://github.com/AzadehKhojandi
 * David
   * [@DavidBurela](https://twitter.com/DavidBurela)
